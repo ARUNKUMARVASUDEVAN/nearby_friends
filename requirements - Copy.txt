@@ -1,0 +1,11 @@
+plotly
+pandas
+numpy
+geopandas
+matplotlib
+seaborn
+folium
+haversine
+pymongo
+streamlit
+flask
