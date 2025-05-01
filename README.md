@@ -1,4 +1,4 @@
-# 🤝 Nearby Friends Recommendation System using KNN
+# Nearby Friends Recommendation System
 
 Ever thought how apps like Facebook or Meetup suggest people you might know? This project simulates that smart magic by using **K-Nearest Neighbors (KNN)** and **Geolocation Data** to recommend nearby friends based on shared interests and proximity.
 
